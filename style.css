@@ -7,6 +7,10 @@
     margin: 0px;
     padding: 0px;
 }
+html, body{
+    min-width: 95vw;
+    min-height: 100vh;
+}
 :root{
     --font-titulo: 'Passion One', sans-serif;
     --font-texto: 'sriracha', sans-serif;
